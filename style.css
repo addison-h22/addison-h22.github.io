@@ -1,7 +1,37 @@
 body {
-background-color: #FFEE93;
+background-color: #F7AF97;
 
 color: #1E1E24;
 
 
+}
+
+
+p {
+	font-size: 30px;
+}
+
+
+
+
+
+
+h1 {
+
+	font-size: 60px;
+}
+
+li {
+
+	font-size: 30px;
+
+}
+a:li {
+	color: #778472;
+	
+}
+
+a:visited {
+	color: #778472;
+	
 }
